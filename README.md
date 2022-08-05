@@ -1,6 +1,6 @@
 ![version :17.08.2021](https://img.shields.io/badge/version-17.08.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=ImLeixd&color=red)&nbsp;
-[![GitHub This-Noa](https://img.shields.io/github/followers/ImLeixd?label=follow&style=social)](https://github.com/ImLeixd)&nbsp;
+![GitHub Org's stars](https://img.shields.io/github/stars/TheSatuke?style=social)
 
 Sana nasıl ulaşabilirim? 
 
